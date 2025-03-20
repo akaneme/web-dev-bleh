@@ -1,0 +1,9 @@
+body {
+    background-color: black;
+    color: blanchedalmond;
+    flex: auto;
+}
+.intro {
+    font-size: 20px;
+    text-align: center;
+}
